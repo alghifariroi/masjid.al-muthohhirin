@@ -56,11 +56,22 @@ section {
   padding: 3rem 9%;
 }
 
-.btn {
+.btn{
   display: inline-block;
   margin-top: 1rem;
   border-radius: 50px;
   background: #019285;
+  cursor: pointer;
+  color: #fff;
+  padding: 1rem 3rem;
+  font-size: 1.7rem;
+}
+
+.btnn{
+  display: inline-block;
+  margin-top: 1rem;
+  border-radius: 50px;
+  background: green;
   cursor: pointer;
   color: #fff;
   padding: 1rem 3rem;
@@ -181,7 +192,13 @@ section {
           flex: 1 1 42rem;
 }
 
-.home .box .content h3 {
+.home .box .content .well{
+  font-family: "Poppins";
+  font-size: 5rem;
+  color: #000;
+}
+
+.home .box .content h3{
   font-size: 8rem;
   color: #FDBC3A;
   font-family: "MagicalSource";

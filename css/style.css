@@ -22,8 +22,8 @@ S@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;
 }
 
 @font-face {
-  font-family: "MagicalSource";
-  src: url('MagicalSource.ttf');
+   font-family: "MagicalSource";
+   src: url('../MagicalSource.ttf');
 }
 
 html {
@@ -91,7 +91,7 @@ section {
   text-align: center;
   margin-bottom: 3rem;
   font-size: 4rem;
-  color: var(--light-color);
+  color: var(--black);
 }
 
 .heading span {
@@ -200,7 +200,7 @@ section {
 .home .box .content .well{
   font-family: "Poppins";
   font-size: 5rem;
-  color: #000;
+  color: var(--black);
 }
 
 .home .box .content h3{

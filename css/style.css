@@ -91,7 +91,7 @@ section {
   text-align: center;
   margin-bottom: 3rem;
   font-size: 4rem;
-  color: var(--black);
+  color: var(--light-color);
 }
 
 .heading span {

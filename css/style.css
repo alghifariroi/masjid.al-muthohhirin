@@ -21,6 +21,11 @@ S@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;
   transition: all .2s linear;
 }
 
+@font-face {
+  font-family: "MagicalSource";
+  src: url('MagicalSource.ttf');
+}
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
